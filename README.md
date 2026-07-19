@@ -1,6 +1,7 @@
 # Google 5-Day AI Agents Intensive
+https://www.kaggle.com/learn-guide/5-day-agents
 
-> A hands-on AI Agents course created by Google's ML researchers and engineers. Originally held live (November 10–14, 2025), it is now available as a self-paced Kaggle Learn guide. :contentReference[oaicite:0]{index=0}
+> The **[5-Day AI Agents Intensive course with Google](https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap/)** is a hands-on AI Agents course created by Google's ML researchers and engineers. Originally held live (November 10–14, 2025), it is now available as a self-paced Kaggle Learn guide.
 
 ---
 
